@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8c4e30ad-642d-4956-87f5-30b5a83e5c39/resourceGroups/testresourceforsce/providers/Microsoft.Web/sites/downloadpowershellscript",
+    "appService.deploySubpath": "."
+}
